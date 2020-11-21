@@ -43,8 +43,9 @@
   "dependencies": {
     "commander": "^5.0.0",
     "debug": "^4.1.1",
-    "rclnodejs": "^0.x.1",
+    "rclnodejs": "0.16.0",
     "uuid": "^7.0.2",
-    "ws": "^7.1.1"
+    "ws": "^7.1.1",
+    "roslib": "1.1.0"
   }
 }
